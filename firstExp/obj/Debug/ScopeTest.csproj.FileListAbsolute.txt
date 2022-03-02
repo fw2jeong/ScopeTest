@@ -1,0 +1,17 @@
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\firstExp.exe.config
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\firstExp.exe
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\firstExp.pdb
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\ScottPlot.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\System.Drawing.Common.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\System.ValueTuple.dll
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\ScottPlot.xml
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\bin\Debug\System.ValueTuple.xml
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\ScopeTest.csprojResolveAssemblyReference.cache
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\ControlFlots.fScope.Private.ControlPanelForm.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\firstExp.ScopeTestForm.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\firstExp.Properties.Resources.resources
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\ScopeTest.csproj.GenerateResource.Cache
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\firstExp.exe
+C:\Users\LeeJeongHoon\Desktop\ScottLib2.0.1\TestFile-220302\ScopeTest\firstExp\obj\Debug\firstExp.pdb
